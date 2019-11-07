@@ -4,6 +4,7 @@ git:
   depth: false
 
 addons:
+  artifacts: true
   sonarcloud:
     organization: "violetgiraffe"
     token:
